@@ -1,0 +1,4 @@
+Ser,Option,Description
+1,Check Supported Currencies,Show the valid supported currencies
+2,Get Live Rates,Give the current live rates of currencies
+3,Currency Converter,Converts currencies to their rates
